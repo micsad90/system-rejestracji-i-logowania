@@ -1,0 +1,2 @@
+Prosta strona rejestracji i logowania. Pisz¹c ten kod skupi³em siê na tym, aby poæwiczyæ dzia³anie programu, 
+a nie na bezpieczeñstwie danych do rejestracji i logowania. Jako bazy danych u¿y³em programu xammp
